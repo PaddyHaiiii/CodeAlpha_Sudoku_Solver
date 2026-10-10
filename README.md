@@ -65,4 +65,5 @@ This project demonstrates a 2D grid, recursive backtracking, and row/column/3 x 
 
 ## Author
 
-Add your name, course, and internship details here before publishing.
+Name : Parth Vairagade
+
